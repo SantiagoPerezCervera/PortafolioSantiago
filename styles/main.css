@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    height: 5000px;
+    background-color: aqua;
+
+}
+
+.container{
+    margin: 25px;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+.position {
+
+    position: sticky;
+    top: 0px;
+
+}
+
+img{
+    border-radius: 500px;
+
+}
